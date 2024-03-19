@@ -1,7 +1,7 @@
 # LawGPT
 Lawgpt is an AI-powered legal document generator that helps users generate legal documents in multiple languages and summarize case judgements. With the power of OpenAI API key, Lawgpt explains legal laws and provides summarized responses .
 
-![image](https://github.com/MukeshAofficial/LawGPT/assets/132742860/cb91d4ef-c8c1-4f9c-9711-e8c3da2a3bd8)
+
 
 About the project
 The inspiration for this project came from my own interest in legal awareness and the need for a tool that could generate documents in multiple languages and summarize case judgements. I wanted to create a model that could explain legal laws using the power of AI and the OpenAI API.
@@ -36,7 +36,7 @@ The model's ability to explain legal laws using the OpenAI API key.
 
 
 
-
+![image](https://github.com/MukeshAofficial/LawGPT/assets/132742860/cb91d4ef-c8c1-4f9c-9711-e8c3da2a3bd8)
 ![image](https://github.com/MukeshAofficial/LawGPT/assets/132742860/ecf5f56a-232c-4d0c-b77b-8c5f07a911f4)
 ![image](https://github.com/MukeshAofficial/LawGPT/assets/132742860/70f7b369-0dea-49c1-8609-49ba0f68f616)
 ![DOCUME](https://github.com/MukeshAofficial/LawGPT/assets/132742860/6a65b2e8-c8a2-4fde-b7d6-2028bd9ce397)
